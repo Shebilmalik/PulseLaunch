@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@btc-vision/bitcoin": "^7.0.0",
+    "@btc-vision/transaction": "^1.8.0",
+    "opnet": "^1.8.3"
+  }
+}
